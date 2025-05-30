@@ -1,5 +1,6 @@
 header {
-    background-color: #64ff00;
+    background-color: #6ee7b7; /* verde menta suave */
+    color: #22223b;
     width: 100vw;
     margin: 0;
     padding: 40px;
@@ -10,26 +11,36 @@ header {
     text-align: center;
     font-size: 45px;
     font-family: 'WDXL Lubrifont TC';
+    border-bottom: 4px solid #4f9a94;
 }
 body{
-    background-color: aliceblue;
+    background: linear-gradient(135deg, #f8fafc 0%, #c7d2fe 100%);
 }
 html, body {
+    height: 100%;
     margin: 0;
     padding: 0;
 }
 div{
-    border: 1px solid black;
-    border-radius: 10px;
+    border: 1px solid #a5b4fc;
+    border-radius: 16px;
     margin-top: 10px;
     margin-left: 10px;
     margin-right: 10px;
+    background-color: #f1f5f9;
+    box-shadow: 0 4px 16px rgba(100, 116, 139, 0.08);
+    padding-bottom: 20px;
 }
 li{
     margin-left: 45px;
     font-size: 20px;
     text-indent: -1em;
     padding-left: 1em;
+    color: #22223b;
+}
+h2 {
+    color: #4f9a94;
+    font-family: 'WDXL Lubrifont TC', sans-serif;
 }
 
 
