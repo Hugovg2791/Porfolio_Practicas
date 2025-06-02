@@ -1,5 +1,5 @@
 header {
-    background-color: #6ee7b7; /* verde menta suave */
+    background-color: #6ee7b7;
     color: #22223b;
     width: 100vw;
     margin: 0;
@@ -13,6 +13,21 @@ header {
     font-family: 'WDXL Lubrifont TC';
     border-bottom: 4px solid #4f9a94;
 }
+footer{
+    background-color: #51ce9c;
+    color: #22223b;
+    width: 100vw;
+    margin: 0;
+    padding: 40px;
+    padding-left: 0;
+    box-sizing: border-box;
+    align-items: center;
+    text-align: center;
+    font-size: 15px;
+    font-family: 'WDXL Lubrifont TC';
+    border-bottom: 4px solid #4f9a94;
+}
+
 body{
     background: linear-gradient(135deg, #f8fafc 0%, #c7d2fe 100%);
 }
