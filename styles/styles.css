@@ -218,7 +218,17 @@ li {
   background-image: none
 }
 #maps:hover {
-  background-image: url(/img/maps.jpg);
+  background-image: url(/img/maps.png);
   background-size: 500px 350px;
 
 }
+#velneo{ 
+  background-size: 500px 200px;
+  background-image: none
+}
+#velneo:hover {
+  background-image: url(/img/velneo.PNG);
+  background-size: 500px 350px;
+
+}
+
