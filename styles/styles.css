@@ -193,3 +193,29 @@ li {
   transform: scale(1.02);
   border-color: #D4AF37;
 }
+#memorion{ 
+  background-size: 500px 200px;
+  background-image: none;
+}
+#memorion:hover {
+  background-image: url(/img/memoriom.PNG);
+  background-size: 500px 200px;
+
+}
+#CalcuRedes{ 
+  background-size: 500px 200px;
+  background-image: none
+}
+#CalcuRedes:hover {
+  background-image: url(/img/calcuredes.PNG);
+  background-size: 500px 200px;
+}
+#maps{ 
+  background-size: 500px 200px;
+  background-image: none
+}
+#maps:hover {
+  background-image: url(/img/maps.jpg);
+  background-size: 500px 350px;
+
+}
