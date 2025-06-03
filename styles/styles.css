@@ -92,7 +92,7 @@ hr {
 
 .project-card p {
   font-size: 1.05rem;
-  color: #E0E0E0;
+  color: #ffffff;
   text-align: justify;
 }
 
@@ -200,14 +200,17 @@ li {
 #memorion:hover {
   background-image: url(/img/memoriom.PNG);
   background-size: 500px 200px;
-
 }
+#memorion:hover .project-card p {
+  color: #000000;
+}
+
 #CalcuRedes{ 
   background-size: 500px 200px;
   background-image: none
 }
 #CalcuRedes:hover {
-  background-image: url(/img/calcuredes.PNG);
+  background-image: url(/img/calcuredes.png);
   background-size: 500px 200px;
 }
 #maps{ 
