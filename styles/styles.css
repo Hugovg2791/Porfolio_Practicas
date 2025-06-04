@@ -3,8 +3,9 @@ body {
   padding: 0;
   background-color: #121212;
   color: #E0E0E0;
-  font-family: 'WDXL Lubrifont TC', Arial, sans-serif;
+  font-family: 'New Century Schoolbook', 'TeX Gyre Schola', serif;
   line-height: 1.6;
+  text-align: justify;
 }
 
 header {
