@@ -96,6 +96,9 @@ hr {
   color: #ffffff;
   text-align: justify;
 }
+.project-card a {
+  height: 100%;
+}
 
 .project-card:hover {
   transform: translateY(-5px);
